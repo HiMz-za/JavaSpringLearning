@@ -14,7 +14,7 @@ JAVA
 8.	What are generics and how are they implemented in Java?  
 9.	What does the keyword transient do?  
 10.	What does the keyword volatile do?  
-11.	What feature in Java 8 reintroduced the diamond problem?  
+11.	which feature in Java 8 reintroduced the diamond problem?  
 12.	What is a lambda expression and why is it useful?  
 13.	What is a servlet? What purpose does it serve? How does it fit into MVC architecture?  
 14.	What is eager and lazy loading in Hibernate/JPA, and when would you choose to use each?  
