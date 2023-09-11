@@ -7,7 +7,7 @@ JAVA
 1.	Explain how the collections framework helps us in Java, and the common data structures that you use?  
 2.	Explain how the equals() and hashcode() base functions are related. What do they do?  
 3.	Explain the differences between LinkedLists and ArrayLists. Which one is quicker for reads? writes? why?  
-4.	Explain what a Java Bean is. What is the difference between a stateful and a stateless EJB?  
+4.	Explain what a Java Bean is? 
 5.	Explain why == is not a safe way to compare Strings. Explain the String pool  
 6.	How has Java 8 made thread manipulation simpler?  
 7.	How would you go about ensuring thread-safety in Java?  
@@ -20,7 +20,7 @@ JAVA
 14.	What is eager and lazy loading in Hibernate/JPA, and when would you choose to use each?  
 15.	What is JDBC and what purpose does it serve? Explain how this is related to an ORM  
 16.	What is often the culprit of a StackOverflowException? Why?  
-17.	What is the difference between eager and lazy loading?  
+17.	What is the difference between a stateful and a stateless EJB?   
 18.	What is the job of the JVM and how does it make Java cross-platform compatible?  
 19.	What is the purpose of the "finally" block?  
 20.	What is the stack and heap in the JVM?  
